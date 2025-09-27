@@ -272,8 +272,8 @@ Contributions welcome! Please:
 If you use this code in your research, please cite:
 ```
 Delta Detector: Frequency-based Hecke Eigenvalue Detection
-Author Name, January 2025
-GitHub: https://github.com/yourusername/LM
+Author miruka, September 2025
+GitHub: https://github.com/specator-tlca/LM
 ```
 
 ## License
