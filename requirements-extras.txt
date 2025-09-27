@@ -1,0 +1,15 @@
+# Optional extras for development
+pytest>=7.0.0
+black>=22.0.0
+jupyter>=1.0.0
+
+# Performance boost
+numba>=0.54.0
+
+# Extra visualization
+plotly>=5.0.0
+seaborn>=0.11.0
+
+# Data handling  
+pandas>=1.3.0
+tqdm>=4.62.0
