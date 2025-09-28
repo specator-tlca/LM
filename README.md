@@ -4,6 +4,8 @@
 
 This repository contains the computational implementation of the **Delta Detector method for Hecke eigenvalue computation**. The method transforms number-theoretic computations into signal processing problems, achieving significant speedups for computing λ(p^a) from L-functions.
 
+## Main Document: [Band-Pass Detection of Local Hecke Data for the Ramanujan ∆-Form](https://zenodo.org/records/17219122)
+
 **Key components:**
 - **Delta Detector algorithm**: Frequency-based eigenvalue detection via integral transforms
 - **Lehmer hypothesis testing**: Systematic search for exceptional eigenvalues
@@ -283,5 +285,5 @@ MIT License - see LICENSE file for details
 ## Related Links
 
 - [L-functions and Modular Forms Database (LMFDB)](https://www.lmfdb.org)
-- [Research paper](link-to-paper) (when published)
-- [Documentation](link-to-docs)
+- [Research paper](https://zenodo.org/records/17219122)
+
